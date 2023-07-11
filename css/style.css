@@ -4,6 +4,9 @@
     padding: 0;
 }
 
+body {
+    font-family: Lato;
+}
 
 
 /* heading part start */
@@ -283,7 +286,7 @@
 
 /* section-05 part start */
 .sec05_container {
-    background-image: url('/Assets/Rectangle 9.png');
+    background-image: url('../Assets/Rectangle 9.png');
     width: 1020px;
     margin: auto;
     text-align: center;
