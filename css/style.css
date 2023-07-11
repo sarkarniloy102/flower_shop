@@ -346,6 +346,35 @@ body {
 }
 
 /* section-05 part end */
+
+/* section-06 part start____ bonus___review */
+
+.review_title {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.sec06_container {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.customer_review {
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 8px 8px 8px gray;
+}
+
+.customer_review h3 {
+    margin-top: 10px;
+}
+
+
 /* main part end */
 
 /* footer part start */
