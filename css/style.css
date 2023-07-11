@@ -80,7 +80,7 @@
 .sec_contain {
     display: flex;
     align-items: center;
-    width: 70%;
+    width: 1020px;
     /* border: 1px solid aquamarine; */
     margin: auto;
     margin-top: 40px;
@@ -127,7 +127,7 @@
 
 /* section_02 in main part start */
 .sec_contain2 {
-    width: 70%;
+    width: 1020px;
     margin: auto;
     margin-top: 50px;
     display: flex;
@@ -235,3 +235,62 @@
 }
 
 /* section part end */
+
+/* section-04 in main end */
+
+/* section-05 part start */
+.sec05_container {
+    background-image: url('/Assets/Rectangle\ 9.png');
+    width: 1020px;
+    margin: auto;
+    text-align: center;
+
+}
+
+.sec05_descrip {
+    margin-top: 50px;
+    padding-top: 80px;
+    margin-bottom: 20px;
+}
+
+.sec05_descrip h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sec05_descrip p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+
+.sec05_contact input {
+    width: 500px;
+    height: 40px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 8px;
+    padding-left: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 80px;
+    margin-top: 30px;
+
+}
+
+.sec05_contact button {
+    width: 130px;
+    height: 58px;
+    padding: 8px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* section-05 part end */
