@@ -81,7 +81,7 @@
     display: flex;
     align-items: center;
     width: 70%;
-    /* border: 1px solid aquamarine; */
+    border: 1px solid aquamarine;
     margin: auto;
     margin-top: 40px;
 }
@@ -124,3 +124,29 @@
 }
 
 /* section_01 in main part end______bonus part */
+
+/* section_02 in main part start */
+.sec_contain2 {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid aquamarine;
+}
+
+.delivery {
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 5px;
+}
+
+.delivery p {
+    margin-top: 15px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* section_02 in main part end */
