@@ -4,12 +4,12 @@
     padding: 0;
 }
 
-/* section part-01 start */
+/* heading part start */
 .section1_container {
     display: flex;
     align-items: center;
     background-color: rgba(229, 84, 115, 0.10);
-    padding: 197px 340px 147px 160px;
+    padding: 50px 250px 50px 160px;
 
 }
 
@@ -18,29 +18,109 @@
 }
 
 .sec1_contain_des h1 {
-    width: 708px;
+    width: 600px;
     color: #272727;
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 800;
     margin-bottom: 32px;
 
 }
 
 .sec1_contain_des p {
-    width: 634px;
+    width: 554px;
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 400;
     margin-bottom: 32px;
 }
 
 .sec1_contain_des button {
-    padding: 20px 43px;
+    padding: 15px 30px;
     border-radius: 8px;
     background: #E55473;
+    color: white;
+    font-size: 20px;
 }
 
+
 .sec1_contain_img img {
-    width: 550px;
-    height: 700px;
+    width: 500px;
+    height: 630px;
 }
+
+/* heading part end */
+
+/* main part start */
+
+/* title in main part start */
+.title_container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title_container h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.title_container p {
+    width: 550px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: auto;
+    margin-top: 10px;
+}
+
+/* title in main part end */
+
+/* section_01 in main part start______bonus part */
+.sec_contain {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    /* border: 1px solid aquamarine; */
+    margin: auto;
+    margin-top: 40px;
+}
+
+
+.sec_contain1 {
+    text-align: center;
+}
+
+
+.contain1_img img {
+    width: 250px;
+    height: 300px;
+}
+
+.contain1_img {
+    background-color: antiquewhite;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 100px 40px 0px 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.img2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.img3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.sec_contain a {
+    color: #272727;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+/* section_01 in main part end______bonus part */
