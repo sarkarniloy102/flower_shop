@@ -150,3 +150,45 @@
 }
 
 /* section_02 in main part end */
+
+/* section_03 in main part start */
+.sec03_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 50px;
+    padding: 50px;
+}
+
+.sec03_descrip h2 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sec03_descrip p {
+    width: 500px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.sec03_btn {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sec03_btn button {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+
+/* section_03 in main part end */
